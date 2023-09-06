@@ -8,7 +8,5 @@ Here are some ideas to get you started:
 
 - 🌱 No momento estou estudando back-end
 
-![Isaac GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacgDias&show_icons=true&theme=radical)
-
 -->
 
