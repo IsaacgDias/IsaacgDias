@@ -1,12 +1,11 @@
 ### Olá! Eu sou o Isaac 👋
 
-🌱 No momento estou estudando back-end
-<!--
-**IsaacgDias/IsaacgDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 No momento estou estudando back-end
 
-Here are some ideas to get you started:
+🎓 Formado em Técnico em Desenvolviemento de Sistema.
+</br></br>
+🖥️ Cursando Ciência da Computação.
 
-- 🌱 No momento estou estudando back-end
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/isaac-dias-2405a0237/)
 
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
