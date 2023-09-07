@@ -2,7 +2,7 @@
 
 📌 No momento estou estudando back-end
 
-🎓 Formado em Técnico em Desenvolviemento de Sistema.
+🎓 Formado em Técnico em Desenvolvimento de Sistema.
 </br></br>
 🖥️ Cursando Ciência da Computação.
 
