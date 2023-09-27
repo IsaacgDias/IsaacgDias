@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Isaac 👋
 
-📌 No momento estou estudando back-end
+📌 Em busca de oportunidades.
 
 🎓 Formado em Técnico em Desenvolvimento de Sistema.
 </br></br>
