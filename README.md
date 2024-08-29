@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Isaac 👋
 
-📌 Em busca de oportunidades.
-
 🎓 Formado em Técnico em Desenvolvimento de Sistema.
 </br></br>
 🖥️ Cursando Ciência da Computação.
